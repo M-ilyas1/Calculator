@@ -1,4 +1,7 @@
 
+// 1. ============================================================================================================
+
+
 let buttons =  document.querySelectorAll('button')
 
 let display  = document.querySelector('.display')
@@ -19,3 +22,8 @@ function  calculate(event){
         display.value += buttonclickValue
     }
 }
+
+
+// 2. ============================================================================================================
+
+

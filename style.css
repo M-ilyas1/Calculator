@@ -5,7 +5,7 @@
 #container{
     width: 100%;
     height: 100vh;
-    background-color: rgb(247, 246, 245);
+    background-color: rgb(112, 110, 11);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -28,6 +28,7 @@
     padding-left: 10px;
     outline: none;
     border: none;
+    border-radius: 20px 20px;
     /* border-bottom: 1px solid white; */
     background-color: rgb(16, 15, 15);
     color: white;
